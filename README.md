@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Robotic Process Automation & Chatbots
-- 🌱 I’m currently learning Intelligent Automation, Backend Development, Machine Learnings, Intelligent Chatbots, Devops
+- 🌱 I’m currently learning Intelligent Automation, Backend Development, Machine Learning, Intelligent Chatbots, Devops
 - 👯 I’m looking to collaborate on RPA, Chatbots, Machine Learning
 - 💬 Ask me about Robotic Process Automation & Chatbots
 - 📫 How to reach me: bandarammohan@gmail.com
