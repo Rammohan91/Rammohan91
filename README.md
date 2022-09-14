@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Robotic Process Automation & Chatbots
 - 🌱 I’m currently learning Intelligent Automation, Backend Development, Machine Learnings, Intelligent Chatbots
 - 👯 I’m looking to collaborate on RPA, Chatbots, Machine Learning
-<!--- 🤔 I’m looking for help with ...-->
 - 💬 Ask me about Robotic Process Automation & Chatbots
 - 📫 How to reach me: bandarammohan@gmail.com
+<!--- 🤔 I’m looking for help with ...-->
 <!--- 😄 Pronouns: ...-->
 <!--- ⚡ Fun fact: ...-->
 
