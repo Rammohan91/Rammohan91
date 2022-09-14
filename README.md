@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Intelligent Automation, Backend Development, Machine Learning, Intelligent Chatbots, Devops
 - 👯 I’m looking to collaborate on RPA, Chatbots, Machine Learning
 - 💬 Ask me about Robotic Process Automation & Chatbots
-- 📫 How to reach me: bandarammohan@gmail.com
+- 📫 How to reach me: Drop me an email @ bandarammohan@gmail.com
 <!--- 🤔 I’m looking for help with ...-->
 <!--- 😄 Pronouns: ...-->
 <!--- ⚡ Fun fact: ...-->
